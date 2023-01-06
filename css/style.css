@@ -2059,10 +2059,19 @@ footer {
     grid-template-columns: 100%;
   }
     
-.hp2 .client-name {
-  font-size: 14px !important;
-}
+    .client-name {
+      font-size: 14px !important;
+    }
 
+.client-header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+    
   .desc h2 {
     font-size: 24px;
   }
