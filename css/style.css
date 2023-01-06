@@ -6,7 +6,7 @@
 ** Global style
 ---------------------------*/
 
-.hp2 .client-image {
+.client-image {
     flex-shrink: 0 !important;
 }
 
