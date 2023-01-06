@@ -2059,8 +2059,8 @@ footer {
     grid-template-columns: 100%;
   }
     
-.hp2 .client-header {
-  font-size: 14px;
+.hp2 .client-name {
+  font-size: 14px !important;
 }
 
   .desc h2 {
