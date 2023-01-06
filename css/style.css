@@ -5,6 +5,17 @@
 /*---------------------------
 ** Global style
 ---------------------------*/
+
+.hp2 .client-image {
+    flex-shrink: 0;
+}
+
+.hp2 .client-header {
+  font-size: 14px;
+}
+
+
+
 .mybtn1 {
   font-size: 16px;
   line-height: 26px;
