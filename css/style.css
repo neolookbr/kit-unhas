@@ -7,12 +7,10 @@
 ---------------------------*/
 
 .hp2 .client-image {
-    flex-shrink: 0;
+    flex-shrink: 0 !important;
 }
 
-.hp2 .client-header {
-  font-size: 14px;
-}
+
 
 
 
@@ -2060,6 +2058,10 @@ footer {
   .images {
     grid-template-columns: 100%;
   }
+    
+.hp2 .client-header {
+  font-size: 14px;
+}
 
   .desc h2 {
     font-size: 24px;
